@@ -61,7 +61,7 @@ Engineering resource is precious so make code count! The real value of what we d
 - prioritise the problems that nobody has solved
 - focus on code that enhances the customer experience
 
-## Openess & Collaboration
+## **new:** Openess & Collaboration
 
 Engineering is a collaborative activity, so share, be open and help others where you can.
 
@@ -69,3 +69,11 @@ Engineering is a collaborative activity, so share, be open and help others where
 - a problem shared is a problem solved
 - be curious and kind
 - offer your wisdom and seek it in others
+
+## **new:** Simplicity
+
+In the time honoured tradition of KISS, strive for simplicity, as simple is easier to understand, maintain and extend.
+
+- simplicity is difficult
+- reuse and economy can be a trap
+- focus on many simple things which together make something complex rather than a single complex thing
