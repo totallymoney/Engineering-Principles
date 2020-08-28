@@ -15,9 +15,9 @@ _So broadly speaking, here are a few themes that we instinctively promote at Tot
 
 Ultimately as developers we believe you need autonomy over how you do your job, whether that’s the way you choose to solve a problem, the technology you use or decisions on how to architect. The flip slide of autonomy is ownership, because when you feel you have the freedom to make something the way you think best, you feel engaged in making it the best you can.
 
-- you build it you run it
-- you decide how to solve problems
-- the freedom to try new things
+- teams own what they build
+- as a team you decide how to solve problems
+- the freedom to try new things and cross boundaries (dev -> devops/ frontend -> backend etc)
 
 ## Disposable Infrastructure
 
