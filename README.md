@@ -17,7 +17,7 @@ Ultimately as developers we believe you need autonomy over how you do your job, 
 
 - teams own what they build
 - as a team you decide how to solve problems
-- the freedom to try new things and cross boundaries (dev -> devops/ frontend -> backend etc)
+- **new:** the freedom to try new things and cross boundaries (dev -> devops/ frontend -> backend etc)
 
 ## Disposable Infrastructure
 
