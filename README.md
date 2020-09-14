@@ -65,7 +65,7 @@ Engineering resource is precious so make code count! The real value of what we d
 
 Engineering is a collaborative activity, so share, be open and help others where you can.
 
-- open up you code for others to collaborate with
+- open up your code for others to collaborate with
 - a problem shared is a problem solved
 - be curious and kind
 - offer your wisdom and seek it in others
