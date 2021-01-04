@@ -1,4 +1,4 @@
-## How we do development at TotallyMoney
+## Engineering Principles at TotallyMoney
 
 ## Contributing
 
