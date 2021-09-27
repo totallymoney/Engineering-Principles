@@ -1,11 +1,5 @@
 ## Engineering Principles at TotallyMoney
 
-## Contributing
-
-This is a living document and all engineers at TotallyMoney are welcome to add to it. If you want to make suggestions please add these as an **Issue** if you which to edit this document please make your changes as a **Pull Request**.
-
-## About this document
-
 This is not designed to be a list of technologies or practices which are the reserve of frontend/backend or senior/junior devs. It’s not meant to be a technical document at all.
 It is more an exploration of what motivates us as developers, and voicing those ideas that might be collectively held in the minds of people who enjoy working here.
 
