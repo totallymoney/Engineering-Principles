@@ -14,6 +14,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 - Prioritise the problems that nobody has solved
 - Be aware of services and libraries that can do the heavy lifting
 - Focus on code that enhances the customer experience
+- Use metrics or AB testing to confirm your hypothesis
 
 #### Benefits
 
