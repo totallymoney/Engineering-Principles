@@ -1,5 +1,30 @@
 ## Engineering Principles at TotallyMoney
 
+### Engineering Principles - Autonomy
+
+As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions. 
+
+#### Practices
+
+- You own what you build (at individual and squad level)
+- Try new things and cross boundaries
+- Challenge yourself
+- Learn by doing (building MVPs, refine over time, don't over-engineer)
+- Don't wait for someone else to solve things
+
+#### Benefits
+
+- Empowered engineers
+- Not being blocked
+- Sense of ownership
+- Evolving, modern tech stack
+- Get to use the right tools for the job
+
+#### Anti-patterns
+
+- Still using angular 1.x
+- Throwing things over the wall
+- Micromanagement
 
 ---
 
@@ -17,7 +42,7 @@ Ownership is the product of Autonomy, because if you have the freedom to choose 
 - #no-estimates
 - Be a part of the product
 
-#### Benefits:
+#### Benefits
 
 - We go at our own pace
 - No need to cut corners to make deadlines which please our clients
@@ -25,7 +50,7 @@ Ownership is the product of Autonomy, because if you have the freedom to choose 
 - You unlikely to get blocked for hierarchical reasons
 - If you want to you can lead
 
-#### Antipatterns:
+#### Antipatterns
 
 - We can ignore the customer
 - We don't need to be aligned with other parts of the company
