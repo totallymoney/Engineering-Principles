@@ -30,24 +30,23 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 
 ### We Own It
 
-Ownership is the product of Autonomy, because if you have the freedom to choose you also are more likely to believe in your choices. It recognises the fact that we are a tech company, and we own the product. We own the problem space and should know what problem we are trying to solve for the customer extremely well.
+Ownership is the product of Autonomy, because if you have the freedom to choose you also are more likely to believe in your choices. We decide the pace and quality of our work. We own the problem space and know what problem we are trying to solve for the customer.
 
 #### Practices
 
 - Know the customer
-- Challenge yourself
 - No deadlines
 - Measure your success
-- Everyone has a voice and can make a contribution
 - #no-estimates
 - Be a part of the product
+- Everyone has a voice and can make a contribution
 
 #### Benefits
 
 - We go at our own pace
-- No need to cut corners to make deadlines which please our clients
+- No need to cut corners to make deadlines
 - We have control over the quality of the product
-- You unlikely to get blocked for hierarchical reasons
+- You're unlikely to get blocked for hierarchical reasons
 - If you want to you can lead
 
 #### Antipatterns
@@ -65,6 +64,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 
 - Release often
 - Enable speed through process
+- Good test coverage
 - Quality is a long term enabler
 - Don’t chase perfection
 - There’s nothing simple about simplicity
@@ -78,6 +78,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 - Knowing it’s ok to release on Fridays
 - Focussing on interesting problems not boilerplate
 - Providing value to the customer
+- You can determine the success of a feature
 
 #### Anti-patterns
 
@@ -88,53 +89,36 @@ Set yourself up to be able to deliver the most value for the customer with the l
 
 ### Openness & collaboration
 
-Create an environment where time is spent on achieving tangible, beneficial outcomes. Be solution oriented. Do not be afraid to show what you don't know. Maximise learning - from failure, from success, from others.
+Engineering is a collaborative activity, so share be open and help others where you can. Do not be afraid to show what you don't know. When things go wrong we spend time on achieving tangible, beneficial outcomes, rather than placing blame.
 
 #### Practices
+
 - No blame culture
 - Share your failures
 - Be curious and kind
 - Offer your wisdom and seek it in others
+- Maximise learning - from failure, from success, from others
+- Pairing
+- Build consensus
+- Overcommunicate
 
 #### Benefits
+
 - We get stronger over time as weaknesses are found and addressed
-- We can move fast, and try new things - without fear
-- An increased pool/source for solutions to problems
+- We can try new things without fear
+- An increased pool/source for solutions
 - Psychological saftey
 - Easier to identify and eliminate holes in knowledge
 - Shared knowledge and increased growth at individual level
+- Prevents incorrect assumptions being drawn
 
 #### Anti-patterns
+
 - Blame shifting
 - Knowledge siloing
 - Hero culture
 
-
-#### No blame culture
-
-things go wrong. production, inevitably, breaks. when there is a problem, the questions we ask are not to place blame. it helps to know who did what, so we know who to go to for more information; all so that we can better understand how to fix what’s broken. once the fires are out (if any), focus shifts to preventing the same thing from happening again in future.
-by breaking something, all you’re doing is exposing a weakness in our process. by putting your hand up and communicating *the thing what you done borked*, you’re allowing us to move fast and well informed, to fix it, and minimise the learning cost. this practice, allows us to move fast, experiment, try things that are new or scary .. with due caution, but without fear of what happens when something goes wrong.
-
-#### Share your failures
-
-failure is a valuable learning resource. sharing failures can multiply the learning effect across a wider team; in some cases solutions, or easy fixes .. to turn a failure into a success, can come form unexpected places.
-
-we expect things to fail (want to innovate and be ambitious .. if we’re not failing, we’re being too safe)
-
-#### Be curious and kind
-
-what we’re after, is psychological safety. we want an environment where no individual is afraid to show what they don’t know. take care in choosing the words, and tone of voice you use. if we’re asking questions, it’s to gain understanding.
-
-(PRs don’t be savage, in retros etc. curious rather than judgemental)
-
-#### Offer your wisdom and seek it in others
-
-you don’t know what others don’t know. anyone can learn from anyone else. ask about how things are done, ask a about someones specialty, and share your own knowledge freely.
-
-knowledge sharing is in our culture.
-
 ---
-
 
 ### We Care (Short Version)
 
@@ -142,34 +126,32 @@ We care about our customers. Our customers include our friends, our families and
 
 We care about what we create. We have pride in our work and aim to build products that our customers hold in high regard.
 
-* We keep up to date with common security issues
-* We don’t log or store customers personal data unnecessarily
-* Customers with different devices are treated fairly 
+- We keep up to date with common security issues
+- We don’t log or store customers personal data unnecessarily
+- Customers with different devices are treated fairly
 
 (Read More)
 
 #### Practices
 
-* We keep up to date with common security issues
-* We don’t log or store customers personal data unnecessarily
-* Customers with different devices are treated fairly 
+- We keep up to date with common security issues
+- We don’t log or store customers personal data unnecessarily
+- Customers with different devices are treated fairly
 
 #### Benefits
 
-* We don't get hacked
-* Customer's don't sue us
-* The ICO doesn't fine us
-* Customers trust us
+- We don't get hacked
+- Customer's don't sue us
+- The ICO doesn't fine us
+- Customers trust us
 
 #### Anti-Patterns
 
-* Ignoring security
-* Storing data without considering ICO and GDPR practices
-* Not fixing a customer's experience because a bug didn't affect many people
-
+- Ignoring security
+- Storing data without considering ICO and GDPR practices
+- Not fixing a customer's experience because a bug didn't affect many people
 
 ---
-
 
 ### We Care (Long Version)
 
@@ -179,18 +161,18 @@ We care about what we create. We have pride in our work and aim to build product
 
 #### Security
 
-Security is not an afterthought.  We take the security of our systems seriously knowing that failures can have serious ramifications for our customers.
+Security is not an afterthought. We take the security of our systems seriously knowing that failures can have serious ramifications for our customers.
 
 ##### Practices
 
-* We keep up to date with common security issues (including the OWASP top 10)
-* When creating a new system, or modifying an existing one, we consider how it can be made secure
-* We aim to make systems secure by default, and have security in depth
+- We keep up to date with common security issues (including the OWASP top 10)
+- When creating a new system, or modifying an existing one, we consider how it can be made secure
+- We aim to make systems secure by default, and have security in depth
 
 ##### Anti-Patterns
 
-* Assuming that another team will make your api secure
-* Using out-of-date software
+- Assuming that another team will make your api secure
+- Using out-of-date software
 
 #### Data
 
@@ -198,13 +180,13 @@ Keeping our customers' data safe is critical. We have a great deal of highly val
 
 ##### Practices
 
-* We don’t log or store customers personal data unnecessarily
-* We report any data issues we find to the #data-issues channel in slack
+- We don’t log or store customers personal data unnecessarily
+- We report any data issues we find to the #data-issues channel in slack
 
 ##### Anti-Patterns
 
-* Storing data without considering ICO and GDPR practices
-* Logging personally identifiying data 
+- Storing data without considering GDPR
+- Logging personally identifiying data
 
 #### Treating Customers Fairly
 
@@ -213,10 +195,10 @@ We don’t prefer one customer over another; on purpose or by accident. The syst
 ##### Practices
 
 * We follow web standards, and provide accessible options where possible
-* Customers with different devices are treated fairly 
+* Customers with different devices are treated fairly
 * We investigate errors and seek to rectify situations where things go wrong. We don’t have “unlucky” users.
 
 ##### Anti-Patterns
 
-* Low contrast text that some customers can't read
-* Not fixing a customer's experience because a bug didn't affect many people
+- Low contrast text that some customers can't read
+- Not fixing a customer's experience because a bug didn't affect many people
