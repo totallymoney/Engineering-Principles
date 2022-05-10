@@ -1,5 +1,6 @@
 ## Engineering Principles at TotallyMoney
 
+
 ### Move Fast and Deliver Value
 
 Set yourself up to be able to deliver the most value for the customer with the least amount of friction. It’s about releasing often and without fear, knowing you can always fix any issue or roll back.
@@ -29,6 +30,35 @@ Set yourself up to be able to deliver the most value for the customer with the l
 
 ---
 
+### We Own It
+
+Ownership is the product of Autonomy, because if you have the freedom to choose you also are more likely to believe in your choices. It recognises the fact that we are a tech company, and we own the product. We own the problem space and should know what problem we are trying to solve for the customer extremely well.
+
+#### Practices
+
+- Know the customer
+- Challenge yourself
+- No deadlines
+- Measure your success
+- Everyone has a voice and can make a contribution
+- #no-estimates
+- Be a part of the product
+
+#### Benefits:
+
+- We go at our own pace
+- No need to cut corners to make deadlines which please our clients
+- We have control over the quality of the product
+- You unlikely to get blocked for hierarchical reasons
+- If you want to you can lead
+
+#### Antipatterns:
+
+- We can ignore the customer
+- We don't need to be aligned with other parts of the company
+
+---
+
 ### Openness & collaboration
 
 Create an environment where time is spent on achieving tangible, beneficial outcomes. Be solution oriented. Do not be afraid to show what you don't know. Maximise learning - from failure, from success, from others.
@@ -53,7 +83,6 @@ Create an environment where time is spent on achieving tangible, beneficial outc
 - Hero culture
 
 
-
 #### No blame culture
 
 things go wrong. production, inevitably, breaks. when there is a problem, the questions we ask are not to place blame. it helps to know who did what, so we know who to go to for more information; all so that we can better understand how to fix what’s broken. once the fires are out (if any), focus shifts to preventing the same thing from happening again in future.
@@ -76,3 +105,4 @@ what we’re after, is psychological safety. we want an environment where no ind
 you don’t know what others don’t know. anyone can learn from anyone else. ask about how things are done, ask a about someones specialty, and share your own knowledge freely.
 
 knowledge sharing is in our culture.
+
