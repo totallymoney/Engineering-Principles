@@ -148,15 +148,15 @@ Keeping our customers' data safe is critical. We have a great deal of highly val
 
 #### Treating Customers Fairly
 
-We don’t prefer one customer over another; on purpose or by accident. The systems we build are created to be blind to who’s using them and non-discriminatory. Where we can, we provide less able customers with the best experience we can.
+We don’t prefer one customer over another; on purpose or by accident. The systems we build are created to be blind to who’s using them and non-discriminatory. Where we can, we provide all customers with the best experience we can.
 
 ##### Practices
 
 * We follow web standards, and provide accessible options where possible
-* Customers with different devices are treated equally 
+* Customers with different devices are treated fairly 
 * We investigate errors and seek to rectify situations where things go wrong. We don’t have “unlucky” users.
 
 ##### Anti-Patterns
 
 * Low contrast text that some customers can't read
-* Not fixing a customers account because a bug didn't affect many people
+* Not fixing a customer's experience because a bug didn't affect many people
