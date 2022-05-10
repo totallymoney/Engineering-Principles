@@ -31,6 +31,29 @@ Set yourself up to be able to deliver the most value for the customer with the l
 
 ### Openness & collaboration
 
+Create an environment where time is spent on achieving tangible, beneficial outcomes. Be solution oriented. Do not be afraid to show what you don't know. Maximise learning - from failure, from success, from others.
+
+#### Practices
+- No blame culture
+- Share your failures
+- Be curious and kind
+- Offer your wisdom and seek it in others
+
+#### Benefits
+- We get stronger over time as weaknesses are found and addressed
+- We can move fast, and try new things - without fear
+- An increased pool/source for solutions to problems
+- Psychological saftey
+- Easier to identify and eliminate holes in knowledge
+- Shared knowledge and increased growth at individual level
+
+#### Anti-patterns
+- Blame shifting
+- Knowledge siloing
+- Hero culture
+
+
+
 #### No blame culture
 
 things go wrong. production, inevitably, breaks. when there is a problem, the questions we ask are not to place blame. it helps to know who did what, so we know who to go to for more information; all so that we can better understand how to fix what’s broken. once the fires are out (if any), focus shifts to preventing the same thing from happening again in future.
