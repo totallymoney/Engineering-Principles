@@ -49,4 +49,4 @@ We don’t prefer one customer over another; on purpose or by accident. The syst
 ##### Anti-Patterns
 
 * Low contrast text that some customers can't read
-* Not fixing a customers account beacuse a bug didn't affect many people
+* Not fixing a customers account because a bug didn't affect many people
