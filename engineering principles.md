@@ -160,42 +160,19 @@ Keeping our customers' data safe is critical. We have a great deal of highly val
 
 ##### Practices
 
-<<<<<<< HEAD
-
-- We work with our Legal team to follow GDPR principles
 - We don’t log or store customers personal data unnecessarily
 - We report any data issues we find to the #data-issues channel in slack
 
 ##### Anti-Patterns
 
 - Storing data without considering GDPR
-- # Logging personally identifiying data
-
-* We don’t log or store customers personal data unnecessarily
-* We report any data issues we find to the #data-issues channel in slack
-
-##### Anti-Patterns
-
-- Storing data without considering ICO and GDPR practices
 - Logging personally identifiying data
-  > > > > > > > 48f759af4ccf675b2a581b080b5e44afb84e7c0f
 
 #### Treating Customers Fairly
 
 We don’t prefer one customer over another; on purpose or by accident. The systems we build are created to be blind to who’s using them and non-discriminatory. Where we can, we provide all customers with the best experience we can.
 
 ##### Practices
-
-<<<<<<< HEAD
-
-- We follow web standards, and provide accessible options where possible
-- Customers with different devices are treated equally
-- We investigate errors and seek to rectify situations where things go wrong. We don’t have “unlucky” users.
-
-##### Anti-Patterns
-
-- Low contrast text that some customers can't read
-- # Not fixing a customers account because a bug didn't affect many people
 
 * We follow web standards, and provide accessible options where possible
 * Customers with different devices are treated fairly
@@ -205,4 +182,3 @@ We don’t prefer one customer over another; on purpose or by accident. The syst
 
 - Low contrast text that some customers can't read
 - Not fixing a customer's experience because a bug didn't affect many people
-  > > > > > > > 48f759af4ccf675b2a581b080b5e44afb84e7c0f
