@@ -111,7 +111,42 @@ knowledge sharing is in our culture.
 ---
 
 
-### We Care
+### We Care (Short Version)
+
+We care about our customers. Our customers include our friends, our families and our loved ones. Our customers can be deeply personally affected if we do our job wrong.
+
+We care about what we create. We have pride in our work and aim to build products that our customers hold in high regard.
+
+* We keep up to date with common security issues
+* We don’t log or store customers personal data unnecessarily
+* Customers with different devices are treated fairly 
+
+(Read More)
+
+#### Practices
+
+* We keep up to date with common security issues
+* We don’t log or store customers personal data unnecessarily
+* Customers with different devices are treated fairly 
+
+#### Benefits
+
+* We don't get hacked
+* Customer's don't sue us
+* The ICO doesn't fine us
+* Customers trust us
+
+#### Anti-Patterns
+
+* Ignoring security
+* Storing data without considering ICO and GDPR practices
+* Not fixing a customer's experience because a bug didn't affect many people
+
+
+---
+
+
+### We Care (Long Version)
 
 We care about our customers. Our customers include our friends, our families and our loved ones. Our customers can be deeply personally affected if we do our job wrong.
 
