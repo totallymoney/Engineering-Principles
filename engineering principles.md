@@ -138,13 +138,12 @@ Keeping our customers' data safe is critical. We have a great deal of highly val
 
 ##### Practices
 
-* We work with our Legal team to follow GDPR principles
 * We don’t log or store customers personal data unnecessarily
 * We report any data issues we find to the #data-issues channel in slack
 
 ##### Anti-Patterns
 
-* Storing data without considering GDPR
+* Storing data without considering ICO and GDPR practices
 * Logging personally identifiying data 
 
 #### Treating Customers Fairly
