@@ -2,7 +2,7 @@
 
 ### Engineering Principles - Autonomy
 
-As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions. 
+As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
 #### Practices
 
@@ -41,18 +41,7 @@ Ownership is the product of Autonomy, because if you have the freedom to choose 
 - Be a part of the product
 - Everyone has a voice and can make a contribution
 
-#### Benefits
-
-- We go at our own pace
-- No need to cut corners to make deadlines
-- We have control over the quality of the product
-- You're unlikely to get blocked for hierarchical reasons
-- If you want to you can lead
-
-#### Antipatterns
-
-- We can ignore the customer
-- We don't need to be aligned with other parts of the company
+[Read More](./read-more/we-own-it.md)
 
 ---
 
@@ -73,17 +62,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 - Focus on code that enhances the customer experience
 - Use metrics or AB testing to confirm your hypothesis
 
-#### Benefits
-
-- Knowing it’s ok to release on Fridays
-- Focussing on interesting problems not boilerplate
-- Providing value to the customer
-- You can determine the success of a feature
-
-#### Anti-patterns
-
-- Cutting corners to get stuff done
-- Imagining what the customer wants without testing your hypothesis
+[Read More](./read-more/move-fast-and-deliver-value.md)
 
 ---
 
