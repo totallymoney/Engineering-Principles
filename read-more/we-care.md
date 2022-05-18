@@ -21,7 +21,7 @@ Security is not an afterthought. We take the security of our systems seriously k
 - Assuming that another team will make your api secure
 - Using out-of-date software
 
-### Data
+## Data
 
 Keeping our customers' data safe is critical. We have a great deal of highly valuable data that our customers entrust us to keep safe and only use for their benefit.
 
