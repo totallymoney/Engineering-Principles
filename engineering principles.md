@@ -120,7 +120,7 @@ Engineering is a collaborative activity, so share be open and help others where 
 
 ---
 
-### We Care (Short Version)
+### We Care
 
 We care about our customers. Our customers include our friends, our families and our loved ones. Our customers can be deeply personally affected if we do our job wrong.
 
@@ -130,4 +130,4 @@ We care about what we create. We have pride in our work and aim to build product
 - We don’t log or store customers personal data unnecessarily
 - Customers with different devices are treated fairly
 
-[Read More](./read-more/we-care.md)
+[We care...](./read-more/we-care.md)
