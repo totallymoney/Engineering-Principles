@@ -1,6 +1,6 @@
 ## Engineering Principles at TotallyMoney
 
-### Engineering Principles - Autonomy
+### Autonomy
 
 As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
@@ -12,20 +12,7 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 - Learn by doing (building MVPs, refine over time, don't over-engineer)
 - Don't wait for someone else to solve things
 
-#### Benefits
-
-- Empowered engineers
-- Not being blocked
-- Sense of ownership
-- Evolving, modern tech stack
-- Get to use the right tools for the job
-
-#### Anti-patterns
-
-- Still using angular 1.x
-- Throwing things over the wall
-- Micromanagement
-
+[Autonomy ...]('./read-more/autonomy.md')
 ---
 
 ### We Own It
@@ -81,21 +68,7 @@ Engineering is a collaborative activity, so share be open and help others where 
 - Build consensus
 - Overcommunicate
 
-#### Benefits
-
-- We get stronger over time as weaknesses are found and addressed
-- We can try new things without fear
-- An increased pool/source for solutions
-- Psychological saftey
-- Easier to identify and eliminate holes in knowledge
-- Shared knowledge and increased growth at individual level
-- Prevents incorrect assumptions being drawn
-
-#### Anti-patterns
-
-- Blame shifting
-- Knowledge siloing
-- Hero culture
+[Openness and Collaboration ...]('./read-more/openness-and-collaboration.md')
 
 ---
 
@@ -104,6 +77,8 @@ Engineering is a collaborative activity, so share be open and help others where 
 We care about our customers. Our customers include our friends, our families and our loved ones. Our customers can be deeply personally affected if we do our job wrong.
 
 We care about what we create. We have pride in our work and aim to build products that our customers hold in high regard.
+
+#### Practices
 
 - We keep up to date with common security issues
 - We don’t log or store customers personal data unnecessarily
