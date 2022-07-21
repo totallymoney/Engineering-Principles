@@ -1,73 +1,112 @@
 ## Engineering Principles at TotallyMoney
 
-This is not designed to be a list of technologies or practices which are the reserve of frontend/backend or senior/junior devs. It’s not meant to be a technical document at all.
-It is more an exploration of what motivates us as developers, and voicing those ideas that might be collectively held in the minds of people who enjoy working here.
+### Engineering Principles - Autonomy
 
-_So broadly speaking, here are a few themes that we instinctively promote at TotallyMoney._
+As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
-## Autonomy
+#### Practices
 
-Ultimately as developers we believe you need autonomy over how you do your job, whether that’s the way you choose to solve a problem, the technology you use or decisions on how to architect. The flip slide of autonomy is ownership, because when you feel you have the freedom to make something the way you think best, you feel engaged in making it the best you can.
+- You own what you build (at individual and squad level)
+- Try new things and cross boundaries
+- Challenge yourself
+- Learn by doing (building MVPs, refine over time, don't over-engineer)
+- Don't wait for someone else to solve things
 
-- squads own what they build
-- as a squad you decide how to solve problems
-- **new:** the freedom to try new things and cross boundaries (dev -> devops/ frontend -> backend etc)
+#### Benefits
 
-## Disposable Infrastructure
+- Empowered engineers
+- Not being blocked
+- Sense of ownership
+- Evolving, modern tech stack
+- Get to use the right tools for the job
 
-This talks about both a practise of being able to spin up your application ecosystem quickly (for example on your laptop) but also talks in an abstract way of how you system should be experimental and transient.
+#### Anti-patterns
 
-- write services to be cloud native
-- embrace infrastructure as code as a practice
-- experiment without fear of failure
+- Still using angular 1.x
+- Throwing things over the wall
+- Micromanagement
 
-## Moving Fast
+---
 
-If your tests pass you should never be afraid to release to production; moving fast, rely on your tests, logging and knowledge that you can always roll back.
+### We Own It
 
-- process as an enabler not a restriction
-- using the same artifact in all environments
-- make it easy to release often
-- logging as part of a feature
-- fix fast
+Ownership is the product of Autonomy, because if you have the freedom to choose you also are more likely to believe in your choices. We decide the pace and quality of our work. We own the problem space and know what problem we are trying to solve for the customer.
 
-## Learning from Functional
+#### Practices
 
-Learning from functional concepts of immutability, keeping your functions pure.
+- Know the customer
+- No deadlines
+- Measure your success
+- #no-estimates
+- Be a part of the product
+- Everyone has a voice and can make a contribution
 
-- mutable state is the root of all evil
-- keep functions pure
+[Read More](./read-more/we-own-it.md)
 
-## It’s Our Thing
+---
 
-We have a product, we’re not developing for other people and we don’t have a client telling us what they want. We harvest the hive mind of the customer, and they - via analytics - tell us if something works or not. The closeness to the UX/Product team means that we are involved in shaping the product, which again feeds into the feeling of ownership.
+### Move Fast and Deliver Value
 
-- build, measure, learn
-- product focussed development
-- everyone has a voice and can make a contribution
+Set yourself up to be able to deliver the most value for the customer with the least amount of friction. It’s about releasing often and without fear, knowing you can always fix any issue or roll back.
 
-## Delivering Value
+#### Practices
 
-Engineering resource is precious so make code count! The real value of what we do is not solving the problems that have already been solved it’s in the unique new features we can deliver to our customers.
+- Release often
+- Enable speed through process
+- Good test coverage
+- Quality is a long term enabler
+- Don’t chase perfection
+- There’s nothing simple about simplicity
+- Prioritise the problems that nobody has solved
+- Be aware of services and libraries that can do the heavy lifting
+- Focus on code that enhances the customer experience
+- Use metrics or AB testing to confirm your hypothesis
 
-- be aware of services and libraries that can do the heavy lifting
-- automate repetitive tasks
-- prioritise the problems that nobody has solved
-- focus on code that enhances the customer experience
+[Read More](./read-more/move-fast-and-deliver-value.md)
 
-## **new:** Openess & Collaboration
+---
 
-Engineering is a collaborative activity, so share, be open and help others where you can.
+### Openness & collaboration
 
-- open up your code for others to collaborate with
-- a problem shared is a problem solved
-- be curious and kind
-- offer your wisdom and seek it in others
+Engineering is a collaborative activity, so share be open and help others where you can. Do not be afraid to show what you don't know. When things go wrong we spend time on achieving tangible, beneficial outcomes, rather than placing blame.
 
-## **new:** Simplicity
+#### Practices
 
-In the time honoured tradition of KISS, strive for simplicity, as simple is easier to understand, maintain and extend.
+- No blame culture
+- Share your failures
+- Be curious and kind
+- Offer your wisdom and seek it in others
+- Maximise learning - from failure, from success, from others
+- Pairing
+- Build consensus
+- Overcommunicate
 
-- simplicity is difficult
-- reuse and economy can be a trap
-- focus on many simple things which together make something complex rather than a single complex thing
+#### Benefits
+
+- We get stronger over time as weaknesses are found and addressed
+- We can try new things without fear
+- An increased pool/source for solutions
+- Psychological saftey
+- Easier to identify and eliminate holes in knowledge
+- Shared knowledge and increased growth at individual level
+- Prevents incorrect assumptions being drawn
+
+#### Anti-patterns
+
+- Blame shifting
+- Knowledge siloing
+- Hero culture
+
+---
+
+### We Care
+
+We care about our customers. Our customers include our friends, our families and our loved ones. Our customers can be deeply personally affected if we do our job wrong.
+
+We care about what we create. We have pride in our work and aim to build products that our customers hold in high regard.
+
+- We keep up to date with common security issues
+- We don’t log or store customers personal data unnecessarily
+- Customers with different devices are treated fairly
+
+[We care...](./read-more/we-care.md)
