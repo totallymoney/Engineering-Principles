@@ -1,7 +1,7 @@
 ## Engineering Principles at TotallyMoney
 
 ### Autonomy
-
+=======
 As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
 #### Practices
@@ -12,7 +12,7 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 - Learn by doing (building MVPs, refine over time, don't over-engineer)
 - Don't wait for someone else to solve things
 
-[Autonomy ...]('./read-more/autonomy.md')
+[Autonomy...]('./read-more/autonomy.md')
 ---
 
 ### We Own It
@@ -28,7 +28,7 @@ Ownership is the product of Autonomy, because if you have the freedom to choose 
 - Be a part of the product
 - Everyone has a voice and can make a contribution
 
-[Read More](./read-more/we-own-it.md)
+[We Own It...](./read-more/we-own-it.md)
 
 ---
 
@@ -49,7 +49,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 - Focus on code that enhances the customer experience
 - Use metrics or AB testing to confirm your hypothesis
 
-[Read More](./read-more/move-fast-and-deliver-value.md)
+[Move Fast and Deliver Value...](./read-more/move-fast-and-deliver-value.md)
 
 ---
 
@@ -78,10 +78,8 @@ We care about our customers. Our customers include our friends, our families and
 
 We care about what we create. We have pride in our work and aim to build products that our customers hold in high regard.
 
-#### Practices
-
 - We keep up to date with common security issues
 - We don’t log or store customers personal data unnecessarily
 - Customers with different devices are treated fairly
 
-[We care...](./read-more/we-care.md)
+[We Care...](./read-more/we-care.md)
