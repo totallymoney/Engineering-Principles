@@ -3,7 +3,7 @@
 [Back to Engineering Principles](../engineering%20principles.md)
 
 ## Ownership
-ownership is good
+We get to build our product to a standard of quality, and at a sustainable pace, which we set. We make sure it works. We do our best to make sure that it will keep working. When it doesn't, we figure out why not and fix it. 
 - Sense of ownership
 - Duty of care
 ### Practices
@@ -14,7 +14,7 @@ ownership is good
 - Micromanagement
 
 ## Freedom to evolve
-freedom is good
+Engineers have the freedom to choose what tools they use. We know the problems we are trying to solve, and we are the masters of our domain. We can decide for ourselves how best to solve those problems.
 - Empowered engineers
 - Evolving, modern tech stack
 - Get to use the right tools for the job
@@ -26,7 +26,7 @@ freedom is good
 - Still using angular 1.x
 
 ## Speed
-speed is good
+We have the power to make decisions independently, both at individual and at squad level. We can test theories and bulid PoCs on our own. This should reduce delays and blockers, and allow us to get MVP solutions into production quick.
 - Not being blocked
 - Quick turn-around on value to market
 ### Practices

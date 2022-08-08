@@ -3,7 +3,7 @@
 [Back to Engineering Principles](../engineering%20principles.md)
 
 ## Healthy Work Enviroment
-healthy work environmnet is good
+When things go wrong we spend time on achieving tangible, beneficial outcomes, rather than placing blame.
 - We can try new things without fear
 - Psychological saftey
 - Easier to identify and eliminate holes in knowledge
@@ -15,7 +15,7 @@ healthy work environmnet is good
 - Blame shifting
 
 ## Knowledge Sharing
-knowledge sharing is good
+Do not be afraid to show what you don't know, and volunteer the knowlege you have.
 - An increased pool/source for solutions
 - Shared knowledge and increased growth at individual level
 ### Practices
@@ -27,7 +27,7 @@ knowledge sharing is good
 - Knowledge siloing
 
 ## Working Collaboratively
-working collaboratively is good
+Engineering is a collaborative activity, so share be open and help others where you can.
 - Prevents incorrect assumptions being drawn
 ### Practices
 - We build consensus around decisions with wide impact
