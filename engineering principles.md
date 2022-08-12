@@ -1,7 +1,7 @@
 ## Engineering Principles at TotallyMoney
 
 ### Autonomy
-=======
+
 As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
 #### Practices
@@ -12,8 +12,7 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 - Learn by doing (building MVPs, refine over time, don't over-engineer)
 - Don't wait for someone else to solve things
 
-[Autonomy...]('./read-more/autonomy.md')
----
+## [Autonomy...](./read-more/autonomy.md)
 
 ### We Own It
 
@@ -68,7 +67,7 @@ Engineering is a collaborative activity, so share be open and help others where 
 - Build consensus
 - Overcommunicate
 
-[Openness and Collaboration ...]('./read-more/openness-and-collaboration.md')
+[Openness and Collaboration...](./read-more/openness-and-collaboration.md)
 
 ---
 
