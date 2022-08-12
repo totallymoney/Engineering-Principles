@@ -1,7 +1,7 @@
 ## Engineering Principles at TotallyMoney
 
-### Engineering Principles - Autonomy
-
+### Autonomy
+=======
 As an engineer, you need autonomy over how you do your job. Whether that’s the way you choose to solve a problem, the technology you use, or decisions on how to architect. As the expert, you are best positioned to make these decisions.
 
 #### Practices
@@ -12,20 +12,7 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 - Learn by doing (building MVPs, refine over time, don't over-engineer)
 - Don't wait for someone else to solve things
 
-#### Benefits
-
-- Empowered engineers
-- Not being blocked
-- Sense of ownership
-- Evolving, modern tech stack
-- Get to use the right tools for the job
-
-#### Anti-patterns
-
-- Still using angular 1.x
-- Throwing things over the wall
-- Micromanagement
-
+[Autonomy...]('./read-more/autonomy.md')
 ---
 
 ### We Own It
@@ -41,7 +28,7 @@ Ownership is the product of Autonomy, because if you have the freedom to choose 
 - Be a part of the product
 - Everyone has a voice and can make a contribution
 
-[Read More](./read-more/we-own-it.md)
+[We Own It...](./read-more/we-own-it.md)
 
 ---
 
@@ -62,7 +49,7 @@ Set yourself up to be able to deliver the most value for the customer with the l
 - Focus on code that enhances the customer experience
 - Use metrics or AB testing to confirm your hypothesis
 
-[Read More](./read-more/move-fast-and-deliver-value.md)
+[Move Fast and Deliver Value...](./read-more/move-fast-and-deliver-value.md)
 
 ---
 
@@ -81,21 +68,7 @@ Engineering is a collaborative activity, so share be open and help others where 
 - Build consensus
 - Overcommunicate
 
-#### Benefits
-
-- We get stronger over time as weaknesses are found and addressed
-- We can try new things without fear
-- An increased pool/source for solutions
-- Psychological saftey
-- Easier to identify and eliminate holes in knowledge
-- Shared knowledge and increased growth at individual level
-- Prevents incorrect assumptions being drawn
-
-#### Anti-patterns
-
-- Blame shifting
-- Knowledge siloing
-- Hero culture
+[Openness and Collaboration ...]('./read-more/openness-and-collaboration.md')
 
 ---
 
@@ -109,4 +82,4 @@ We care about what we create. We have pride in our work and aim to build product
 - We don’t log or store customers personal data unnecessarily
 - Customers with different devices are treated fairly
 
-[We care...](./read-more/we-care.md)
+[We Care...](./read-more/we-care.md)
