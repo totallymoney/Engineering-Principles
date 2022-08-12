@@ -12,7 +12,7 @@ As an engineer, you need autonomy over how you do your job. Whether that’s the
 - Learn by doing (building MVPs, refine over time, don't over-engineer)
 - Don't wait for someone else to solve things
 
-## [Autonomy...](./read-more/autonomy.md)
+[Autonomy...](./read-more/autonomy.md)
 
 ### We Own It
 
